@@ -1,6 +1,8 @@
-## I'm a beginner developer and data analyst.
+## About me
+I'm a beginner developer and data analyst. Last year student at NSUEM.
 
 ## Languages and Tools
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-blue?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-important?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
-Follow Me
+## Contacts
+[![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vashukovdanil) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/vashukovdanil)
