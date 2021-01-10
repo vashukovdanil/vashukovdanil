@@ -5,4 +5,4 @@ I'm a beginner developer and data analyst. Last year student at NSUEM.
 ![Python](https://img.shields.io/badge/Python-important?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-red?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Contacts
-[![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vashukovdanil) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](t.me/vashukovdanil)
+[![VK](https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/vashukovdanil) [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/vashukovdanil)
